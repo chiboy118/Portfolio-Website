@@ -26,3 +26,4 @@ JavaScript: Used for any interactivity (if applicable).
 FontAwesome: Used for icons (social media, etc.).
 
 It was really a nice experience writing this code
+
